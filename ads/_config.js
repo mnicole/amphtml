@@ -57,6 +57,7 @@ export const adPrefetch = {
   ],
   genieessp: 'https://js.gsspcln.jp/l/amp.js',
   gmossp: 'https://cdn.gmossp-sp.jp/ads/amp.js',
+  gumgum: 'https://g2.gumgum.com/javascripts/amp.js',
   imobile: 'https://spamp.i-mobile.co.jp/script/amp.js',
   industrybrains: 'https://web.industrybrains.com/js/ads/async/show.js',
   mads: 'https://eu2.madsone.com/js/tags.js',
